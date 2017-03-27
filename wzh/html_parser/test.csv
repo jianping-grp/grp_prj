@@ -1,0 +1,867 @@
+KM VALUE [mM]	SUBSTRATE	ORGANISM	 UNIPROT	 COMMENTARY	 LITERATURE	  IMAGE	
+0.25	(+)-2-methylcyclohexanone		-	-		-	
+2.4	(R)-1-indanol			65°C, pH 8.0			
+0.41	(R)-2-butanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+7.5	(R)-2-butanol		-	-			
+37.4	(R)-2-butanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+1.92	(R)-2-octanol		-	-			
+0.22	(R)-2-pentanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+11.7	(R)-2-pentanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+31.7	(R)-2-pentanol		-	-			
+0.02	(R)-2-phenylpropanol		-	-			
+1.3	(R)-alpha-tetralol			65°C, pH 8.0		-	
+4.2	(S)-(+)-1-indanol		-	65°C			
+4.2	(S)-(+)-alpha-tetraol		-	65°C			
+18.1	(S)-(-)-1-phenylethanol		-	65°C			
+6.4	(S)-1-indanol			65°C, pH 8.0			
+0.012	(S)-2-butanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+1.35	(S)-2-butanol		-	-			
+29.8	(S)-2-butanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+120	(S)-2-butanol		-	-			
+0.18	(S)-2-octanol		-	-			
+0.07	(S)-2-pentanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.73	(S)-2-pentanol		-	-			
+8.8	(S)-2-pentanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.157	(S)-2-phenylpropanol		-	-			
+1.05	(S)-alpha-tetralol			65°C, pH 8.0			
+8.47	(S)-N-benzyl-3-pyrrolidinol		-	pH 8.0			
+1.65	1,2-Propanediol		-	-			
+11.5	1,2-Propanediol		-	pH 8.0, 60°C, recombinant enzyme			
+15.84	1,2-Propanediol		-	-			
+26.7	1,3-Propanediol		-	pH 9.0, 60°C, recombinant enzyme			
+0.08	1-butanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.17	1-butanol		-	isoenzyme ADH-3, pH 10.0			
+0.596	1-butanol		-	pH 8.0, 60°C			
+1.6	1-butanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+17	1-butanol		-	isoenzyme ADH-1, pH 10.0			
+19.93	1-butanol		-	-			
+25.78	1-butanol		-	-			
+230	1-butanol		-	isoenzyme ADH-1, pH 7.5			
+0.000036	1-formyl-6-methylpyrene			isozyme ADH4, at 21-23°C			
+0.00032	1-formyl-6-methylpyrene			isozyme ADH2, at 21-23°C			
+0.0009	1-formyl-6-methylpyrene			isozyme ADH1C, at 21-23°C			
+0.0038	1-formyl-6-methylpyrene			isozyme ADH3, at 21-23°C			
+0.000035	1-formyl-8-methylpyrene			isozyme ADH4, at 21-23°C			
+0.00024	1-formyl-8-methylpyrene			isozyme ADH2, at 21-23°C			
+0.00131	1-formyl-8-methylpyrene			isozyme ADH1C, at 21-23°C			
+0.00149	1-formyl-8-methylpyrene			isozyme ADH3, at 21-23°C			
+0.0005	1-formylpyrene			isozyme ADH1C, at 21-23°C			
+0.00055	1-formylpyrene			isozyme ADH3, at 21-23°C			
+0.00092	1-formylpyrene			isozyme ADH4, at 21-23°C			
+0.012	1-formylpyrene			isozyme ADH2, at 21-23°C			
+0.038	1-Heptanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.21	1-Heptanol		-	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.67	1-Heptanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.035	1-Hexanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.04	1-Hexanol		-	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.147	1-Hexanol		-	pH 8.0, 60°C			
+0.88	1-Hexanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.00028	1-hydroxymethyl-6-methylpyrene			isozyme ADH4, at 21-23°C			
+0.00057	1-hydroxymethyl-6-methylpyrene			isozyme ADH3, at 21-23°C			
+0.00115	1-hydroxymethyl-6-methylpyrene			isozyme ADH1C, at 21-23°C			
+0.0064	1-hydroxymethyl-6-methylpyrene			isozyme ADH2, at 21-23°C			
+0.00031	1-hydroxymethyl-8-methylpyrene			isozyme ADH3, at 21-23°C			
+0.0016	1-hydroxymethyl-8-methylpyrene			isozyme ADH4, at 21-23°C			
+0.0064	1-hydroxymethyl-8-methylpyrene			isozyme ADH2, at 21-23°C			
+0.059	1-hydroxymethyl-8-methylpyrene			isozyme ADH1C, at 21-23°C			
+0.00059	1-hydroxymethylpyrene			isozyme ADH3, at 21-23°C			
+0.00075	1-hydroxymethylpyrene			isozyme ADH1C, at 21-23°C			
+0.0283	1-hydroxymethylpyrene			isozyme ADH4, at 21-23°C			
+0.076	1-hydroxymethylpyrene			isozyme ADH2, at 21-23°C			
+5.1	1-Indanol		-	65°C			
+8.7	1-Indanol			65°C, pH 10.5			
+27.6	1-Indanone		-	65°C			
+0.025	1-Octanol		-	isoenzyme ADH-3, pH 10.0			
+0.1	1-Octanol		-	isoenzyme ADH-2			
+0.39	1-Octanol			isozyme ADH3, at 21-23°C			
+0.5	1-Octanol		-	isoenzyme ADH-1, pH 7.5			
+0.51	1-Octanol		-	isoenzyme ADH-2, pH 10.0			
+0.55	1-Octanol		-	-			
+3.88	1-Octanol			cosubstrate NADP+, pH 8.0, 60°C			
+0.027	1-Pentanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.08	1-Pentanol		-	isoenzyme ADH-3, pH 10.0			
+0.26	1-Pentanol		-	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.396	1-Pentanol		-	pH 8.0, 60°C			
+1.9	1-Pentanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+3.1	1-Pentanol		-	isoenzyme ADH-1, pH 10.0			
+27	1-Pentanol		-	-			
+78	1-Pentanol		-	isoenzyme ADH-2, pH 10.0			
+5	1-phenyl-1,2-propanedione			65°C, pH 5.0			
+5.9	1-phenyl-1,2-propanedione		-	65°C			
+12.1	1-phenyl-1,2-propanedione			65°C, pH 5.5			
+0.025	1-phenylethanol		-	-			
+0.24	1-propanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.33	1-propanol		-	native enzyme, at 55°C			
+0.33	1-propanol		-	in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+0.6	1-propanol		-	wild type enzyme, at 65°C			
+1.03	1-propanol		-	pH 8.0, 60°C			
+1.7	1-propanol		-	mutant enzyme N249Y, at 65°C			
+2.4	1-propanol		-	carboxymethylated enzyme, at 55°C			
+3.09	1-propanol		-	-			
+3.54	1-propanol		-	-			
+6.5	1-propanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.2	11-cis-retinal		-	reduction with NADH			
+0.018	11-cis-retinol		-	isozyme ADH1B2, pH 7.5, 25°C			
+0.035	11-cis-retinol		-	isozyme ADH1B1, pH 7.5, 25°C			
+0.28	11-cis-retinol		-	oxidation with NAD+			
+0.013	12-hydroxydodecanoate		-	isoenzyme ADH-3, pH 10.0			
+0.02	12-hydroxydodecanoate		-	isoenzyme BB-ADH			
+0.04	12-hydroxydodecanoate		-	enzyme form ADH-3			
+0.047	12-hydroxydodecanoate		-	-			
+0.048	12-hydroxydodecanoate		-	-			
+0.05	12-hydroxydodecanoate		-	isoenzyme BB-ADH and isoenzyme ADH-TT			
+0.06	12-hydroxydodecanoate		-	isoenzyme AA-ADH			
+0.1	12-hydroxydodecanoate		-	-			
+0.1	12-hydroxydodecanoate		-	isoenzyme ADH-1, pH 10.0			
+0.23	12-hydroxydodecanoate		-	-			
+1.4	12-hydroxydodecanoate		-	isoenzyme ADH-1, pH 10.0			
+2.3	12-hydroxydodecanoate		-	isoenzyme TT-ADH			
+0.056	12-Hydroxydodecanoic acid		-	-			
+0.11	13-cis-retinal		-	oxidation with NAD+			
+0.137	13-cis-retinal		-	reduction with NADH			
+0.257	13-cis-retinol		-	oxidation with NAD+			
+0.06	16-hydroxyhexadecanoate		-	-			
+11.9	2',3',4',5',6'-pentafluoroacetophenone			65°C, pH 5.0			
+6.3	2,2,2-trifluoroacetophenone			65°C, pH 5.0			
+11.2	2,2,2-trifluoroacetophenone		-	65°C			
+23.5	2,2,2-trifluoroacetophenone			65°C, pH 5.5			
+0.11	2,2-dichloroacetophenone			65°C, pH 5.0			
+1.05	2-butanol		-	pH 8.0, 60°C			
+11.9	2-butanol		-	33°C, pH 8			
+15	2-butanone		-	-			
+0.35	2-Buten-1-ol		-	isoenzyme ADH-3, pH 10.0			
+2.5	2-Buten-1-ol		-	isoenzyme ADH-1, pH 10.0			
+60	2-Buten-1-ol		-	isoenzyme ADH-2, pH 10.0			
+0.147	2-decanone		-	pH 8.0, 60°C			
+310	2-deoxy-D-ribose		-	-			
+0.25	2-ethoxyethanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.0021	2-formylpyrene			isozyme ADH1C, at 21-23°C			
+0.0029	2-formylpyrene			isozyme ADH2, at 21-23°C			
+0.0069	2-formylpyrene			isozyme ADH4, at 21-23°C			
+0.009	2-formylpyrene			isozyme ADH3, at 21-23°C			
+1.16	2-Heptanone		-	pH 8.0, 60°C			
+5.01	2-Hexanone		-	pH 8.0, 60°C			
+0.00048	2-hydroxymethylpyrene			isozyme ADH1C, at 21-23°C			
+0.0044	2-hydroxymethylpyrene			isozyme ADH2, at 21-23°C			
+0.033	2-hydroxymethylpyrene			isozyme ADH4, at 21-23°C			
+0.106	2-hydroxymethylpyrene			isozyme ADH3, at 21-23°C			
+0.021	2-Methylcyclohexanol		-	-			
+2.7	2-methylpropan-1-ol		-	-			
+0.215	2-nonanone		-	pH 8.0, 60°C			
+0.286	2-Octanone		-	pH 8.0, 60°C			
+0.752	2-Pentanol		-	pH 8.0, 60°C			
+5.15	2-Pentanone		-	pH 8.0, 60°C			
+14.2	2-Pentanone		-	-			
+0.864	2-phenylpropionaldehyde		-	-			
+0.6	2-propanol		-	native enzyme, at 55°C			
+0.6	2-propanol		-	in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+1.1	2-propanol		-	-			
+2.44	2-propanol		-	pH 8.0, 60°C			
+3.42	2-propanol		-	-			
+11.46	2-propanol		-	-			
+19.6	2-propanol		-	33°C, pH 8			
+53	2-propanol		-	carboxymethylated enzyme, at 55°C			
+57.5	2-propanol	Leifsonia sp.	-	25°C, pH 7.0			
+268	2-propanol		-	wilde-type enzyme ADh1			
+560	2-propanol		-	-			
+0.025	3,4-dihydro-retinal		-	pH 7.5, 25°C, isozyme ADH1B2			
+0.026	3,4-dihydro-retinal		-	pH 7.5, 25°C, isozyme ADH4			
+0.024	3,4-dihydro-retinol		-	pH 7.5, 25°C, isozyme ADH1B2			
+0.028	3,4-dihydro-retinol		-	pH 7.5, 25°C, isozyme ADH4			
+0.14	3-bromobenzyl alcohol		-	native enzyme, at 55°C			
+0.9	3-bromobenzyl alcohol		-	carboxymethylated enzyme, at 55°C			
+0.14	3-bromobenzylalcohol		-	in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+4.4	3-Methoxybenzaldehyde		-	65°C			
+1.2	3-Methoxybenzyl alcohol		-	native enzyme, at 55°C			
+3.3	3-Methoxybenzyl alcohol		-	carboxymethylated enzyme, at 55°C			
+1.2	3-methoxybenzylalcohol		-	in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C; in the presence of 5 mM benzylalcohol, in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+7.5	3-methylbutan-2-one		-	-			
+66	3-methylcyclohexanone			65°C, pH 5.5			
+9.9	3-methylcylohexanol			65°C, pH 8.0		-	
+0.031	3-oxo-5beta-androstan-17beta-ol		-	-			
+0.27	3-Pentanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+1.6	3-Pentanol		-	-			
+75	3-Pentanone		-	-			
+0.032	3-Phenyl-1-propanol		-	-			
+0.033	3-phenylpropanol		-	-			
+0.128	3beta,12alpha-dihydroxy-5beta-cholanoate		-	isoenzyme 2			
+0.16	3beta,12alpha-dihydroxy-5beta-cholanoate		-	isoenzyme 3			
+0.248	3beta,12alpha-dihydroxy-5beta-cholanoate		-	isoenzyme 4			
+0.31	3beta,12alpha-dihydroxy-5beta-cholanoate		-	isoenzyme I			
+0.149	3beta,7alpha,12alpha-trihydroxy-5beta-cholanoate		-	isoenzyme I			
+0.16	3beta,7alpha,12alpha-trihydroxy-5beta-cholanoate		-	isoenzyme 2			
+0.182	3beta,7alpha,12alpha-trihydroxy-5beta-cholanoate		-	isoenzyme 3			
+0.35	3beta,7alpha-12alpha-trihydroxy-5beta-cholanoate		-	isoenzyme 4			
+0.032	3beta-7alpha-dihydroxy-5beta-cholanoate		-	isoenzyme 3			
+0.064	3beta-7alpha-dihydroxy-5beta-cholanoate		-	isoenzyme 2			
+0.066	3beta-7alpha-dihydroxy-5beta-cholanoate		-	isoenzyme 1			
+0.071	3beta-7alpha-dihydroxy-5beta-cholanoate		-	isoenzyme 4			
+0.12	4-bromobenzyl alcohol		-	native enzyme, at 55°C			
+0.4	4-bromobenzyl alcohol		-	carboxymethylated enzyme, at 55°C			
+0.12	4-bromobenzylalcohol		-	in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+0.28	4-carboxybenzaldehyde		-	native enzyme, at 55°C			
+0.28	4-carboxybenzaldehyde		-	in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65°C			
+0.14	4-chloroacetophenone		-	pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha			
+0.53	4-chloroacetophenone		-	pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae			
+1.11	4-chloroacetophenone		-	pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans			
+0.00048	4-formylpyrene			isozyme ADH4, at 21-23°C			
+0.001	4-formylpyrene			isozyme ADH1C, at 21-23°C			
+0.0021	4-formylpyrene			isozyme ADH3, at 21-23°C			
+0.0038	4-formylpyrene			isozyme ADH2, at 21-23°C			
+0.004	4-hydroxy-retinol		-	pH 7.5, 25°C, isozyme ADH1B1			
+0.011	4-hydroxy-retinol		-	pH 7.5, 25°C, isozyme ADH1B2			
+0.015	4-hydroxy-retinol		-	pH 7.5, 25°C, isozyme ADH4			
+0.00037	4-hydroxymethylpyrene			isozyme ADH3, at 21-23°C			
+0.001	4-hydroxymethylpyrene			isozyme ADH1C, at 21-23°C			
+0.0029	4-hydroxymethylpyrene			isozyme ADH4, at 21-23°C			
+0.04	4-hydroxymethylpyrene			isozyme ADH2, at 21-23°C			
+0.024	4-Methoxybenzaldehyde		-	wild type enzyme, at 65°C			
+0.14	4-Methoxybenzaldehyde		-	native enzyme, at 55°C			
+0.14	4-Methoxybenzaldehyde		-	in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65°C			
+0.86	4-Methoxybenzaldehyde		-	mutant enzyme N249Y, at 65°C			
+0.07	4-Methoxybenzyl alcohol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.12	4-Methoxybenzyl alcohol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.23	4-Methoxybenzyl alcohol		-	wild type enzyme, at 65°C			
+1.13	4-Methoxybenzyl alcohol		-	pH 8.0, 60°C			
+1.24	4-Methoxybenzyl alcohol		-	mutant enzyme N249Y, at 65°C			
+1.3	4-Methoxybenzyl alcohol		-	native enzyme, at 55°C			
+1.3	4-Methoxybenzyl alcohol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+1.4	4-Methoxybenzyl alcohol		-	carboxymethylated enzyme, at 55°C			
+61	4-Methoxybenzyl alcohol		-	65°C			
+1.3	4-methoxybenzylalcohol		-	in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+0.131	4-methoxyphenylacetone		-	pH 8.0, 60°C		-	
+6.7	4-Methyl-1-pentanol		-	mutant enzyme W54L			
+53.8	4-Methyl-1-pentanol		-	wilde-type enzyme ADh1			
+0.81	4-methylpentan-1-ol		-	-			
+0.017	4-oxo-retinal		-	pH 7.5, 25°C, isozyme ADH4			
+0.025	4-oxo-retinal		-	pH 7.5, 25°C, isozyme ADH1B1			
+0.027	4-oxo-retinal		-	pH 7.5, 25°C, isozyme ADH1B2			
+0.0036	5alpha-androstan-17beta-ol-3-one		-	pH 7.3, 37°C, ADH1C*2 (gamma2gamma2)			
+0.021	5alpha-androstan-17beta-ol-3-one		-	isoenzyme 2			
+0.025	5alpha-androstan-17beta-ol-3-one		-	isoenzyme 2			
+0.027	5alpha-androstan-17beta-ol-3-one		-	isoenzyme 4			
+0.04	5alpha-androstan-17beta-ol-3-one		-	isoenzyme 1			
+0.011	5beta-androstan-17beta-ol-3-one		-	pH 7.3, 37°C, recombinant enzyme			
+0.046	5beta-androstan-17beta-ol-3-one		-	pH 7.3, 37°C, ADH1C*2 (gamma2gamma2)			
+0.123	5beta-androstan-3beta-ol-17 one		-	isoenzyme 4			
+0.125	5beta-androstan-3beta-ol-17 one		-	isoenzyme 2			
+0.14	5beta-androstan-3beta-ol-17 one		-	isoenzyme 3			
+0.164	5beta-androstan-3beta-ol-17 one		-	isoenzyme 1			
+0.003	5beta-androstan-3beta-ol-17-one		-	pH 7.3, 37°C, recombinant enzyme			
+0.058	5beta-androstan-3beta-ol-17-one		-	pH 7.3, 37°C, ADH1C*2 (gamma2gamma2)			
+0.008	5beta-cholanic acid-3-one		-	pH 7.3, 37°C, recombinant enzyme			
+0.25	5beta-cholanic acid-3-one		-	pH 7.3, 37°C, ADH1C*2 (gamma2gamma2)			
+0.047	5beta-Pregnan-21-ol-3,20-dione hemisuccinate		-	-			
+0.0036	5beta-pregnan-3,20-dione		-	pH 7.3, 37°C, ADH1C*2 (gamma2gamma2)			
+0.027	5beta-Pregnan-3beta-ol-20-one		-	pH 7.3, 37°C, ADH1C*2 (gamma2gamma2)			
+0.16	9-cis-retinal		-	oxidation with NAD+			
+0.242	9-cis-retinal		-	reduction with NADH			
+0.011	9-cis-retinol		-	isozyme ADH1B1, pH 7.5, 25°C			
+0.023	9-cis-retinol		-	isozyme ADH1B2, pH 7.5, 25°C			
+0.3	9-cis-retinol		-	oxidation with NAD+			
+0.0086	acetaldehyde	Sporotrichum pulverulentum	-	-			
+0.013	acetaldehyde		-	70°C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl			
+0.053	acetaldehyde		-	-			
+0.059	acetaldehyde		-	40°C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl			
+0.085	acetaldehyde		-	isoenzyme beta1,beta1			
+0.086	acetaldehyde		-	enzyme form ADH I			
+0.1	acetaldehyde		-	pyrazole-sensitive enzyme, pH 7.0			
+0.194	acetaldehyde		-	-			
+0.217	acetaldehyde		-	isoenzyme 3			
+0.23	acetaldehyde		-	isoenzyme 2			
+0.24	acetaldehyde		-	isoenzyme gamma2,gamma2; isoenzymes beta2,beta2			
+0.24	acetaldehyde		-	isoenzymes beta2,beta2			
+0.276	acetaldehyde		-	isoenzyme 4			
+0.3	acetaldehyde		-	isozyme ADH I, pH 5.5, 25°C			
+0.31	acetaldehyde		-	isoenzyme 1			
+0.33	acetaldehyde		-	isoenzyme gamma1,gamma1			
+0.34	acetaldehyde			isozyme ADH1C, at 21-23°C			
+0.6	acetaldehyde		-	-			
+0.67	acetaldehyde			pH 6.0, 22°C, recombinant enzyme			
+0.92	acetaldehyde		-	33°C, pH 7			
+1.25	acetaldehyde		-	-			
+1.25	acetaldehyde		-	isoenzyme II			
+1.3	acetaldehyde		-	enzyme form ADH II			
+1.45	acetaldehyde		-	isoenzyme I			
+1.8	acetaldehyde		-	-			
+1.9	acetaldehyde		-	pH 8.5			
+2.25	acetaldehyde			cosubstrate NADPH, pH 8.0, 60°C			
+2.6	acetaldehyde		-	pH 8.0, 60°C, recombinant enzyme			
+2.83	acetaldehyde		-	-			
+3.4	acetaldehyde		-	isoenzyme beta3,beta3			
+4.3	acetaldehyde		-	isoenzyme alpha,alpha			
+4.71	acetaldehyde			cosubstrate NADH, pH 8.0, 60°C			
+6	acetaldehyde		-	-			
+7.05	acetaldehyde		-	-			
+11.5	acetaldehyde		-	pyrazole-insensitive enzyme, pH 7.0			
+12.7	acetaldehyde			isozyme ADH4, at 21-23°C			
+24	acetaldehyde		-	isozyme ADH II, pH 6.0, 25°C			
+26	acetaldehyde			isozyme ADH2, at 21-23°C			
+28	acetaldehyde			pH 6.0, temperature not specified in the publication			
+70	acetaldehyde		-	mutant enzyme ADH1-1S1108			
+85	acetaldehyde		-	wild-type enzyme ADH1-1S			
+6.6	acetone		-	-			
+135	acetone		-	-			
+0.2	acetophenone		-	pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha			
+0.4	acetophenone		-	pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans			
+0.66	acetophenone		-	pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae			
+0.011	all-trans-retinal		-	pH 7.5, 25°C, isozyme ADH1B1			
+0.012	all-trans-retinal		-	pH 7.5, 25°C, isozyme ADH1B2			
+0.034	all-trans-retinal		-	pH 7.5, 25°C, isozyme ADH4			
+0.26	all-trans-retinal		-	oxidation with NAD+			
+0.34	all-trans-retinal		-	reduction with NADH			
+0.009	all-trans-retinol		-	-			
+0.02	all-trans-retinol		-	isoenzyme TT-ADH			
+0.023	all-trans-retinol		-	pH 7.5, 25°C, isozyme ADH4			
+0.03	all-trans-retinol		-	isoenzyme BB-ADH			
+0.03	all-trans-retinol		-	pH 7.5, 25°C, isozyme ADH1B1			
+0.03	all-trans-retinol		-	isozyme ADH1B1, pH 7.5, 25°C			
+0.033	all-trans-retinol		-	pH 7.5, 25°C, isozyme ADH1B2			
+0.033	all-trans-retinol		-	isozyme ADH1B2, pH 7.5, 25°C			
+0.05	all-trans-retinol		-	isoenzyme AA-ADH			
+0.059	all-trans-retinol		-	oxidation with NAD+			
+0.39	allyl alcohol		-	pH 7.3, 37°C			
+5.3	alpha-tetralol		-	65°C			
+5.8	alpha-tetralone		-	65°C			
+8.5	alpha-tetraol			65°C, pH 10.5		-	
+0.0025	Anisaldehyde		-	-			
+0.09	Anisaldehyde		-	-			
+0.03	benzaldehyde		-	wild type enzyme, at 65°C			
+0.03	benzaldehyde		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.07	benzaldehyde		-	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.148	benzaldehyde		-	-			
+0.2	benzaldehyde		-	carboxymethylated enzyme, at 55°C			
+0.26	benzaldehyde		-	mutant enzyme N249Y, at 65°C			
+0.28	benzaldehyde		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.3	benzaldehyde		-	native enzyme, at 55°C			
+0.3	benzaldehyde		-	in 50 mM Tris-HCl (pH 7.5) containing 0.2 mM NADH + H+, at 65°C			
+0.333	benzaldehyde		-	pH 8.0, 60°C			
+2 - 3	benzaldehyde			in the presence of 0.25 mM NADH, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+14	benzaldehyde		-	isozyme ADH2, in the presence of 0.25 mM NADH, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+33	benzaldehyde		-	isozyme ADH1, in the presence of 0.25 mM NADH, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+0.43	benzil			65°C, pH 5.0			
+0.007	benzyl alcohol		-	-			
+0.012	benzyl alcohol		-	-			
+0.013	benzyl alcohol		-	enzyme form ADH-2			
+0.013	benzyl alcohol		-	-			
+0.046	benzyl alcohol		-	-			
+0.05	benzyl alcohol		-	isoenzyme ADH-3, pH 10.0			
+0.12	benzyl alcohol		-	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.15	benzyl alcohol		-	-			
+0.26	benzyl alcohol		-	wild type enzyme, at 65°C			
+0.26	benzyl alcohol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.8	benzyl alcohol		-	native enzyme, at 55°C			
+1.4	benzyl alcohol		-	isoenzyme ADH-1, pH 10.0			
+1.5	benzyl alcohol		-	mutant enzyme N249Y, at 65°C			
+2	benzyl alcohol		-	carboxymethylated enzyme, at 55°C			
+3.8	benzyl alcohol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+5.43	benzyl alcohol		-	pH 8.0, 60°C			
+7.72	benzyl alcohol		-	-			
+19.96	benzyl alcohol		-	-			
+24	benzyl alcohol			in the presence of 2 mM NAD+, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+34	benzyl alcohol		-	isozyme ADH1, in the presence of 2 mM NAD+, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+49	benzyl alcohol		-	isozyme ADH2, in the presence of 2 mM NAD+, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+0.0145	benzylalcohol			in 50 mM glycine-NaOH at pH 10.0			
+0.44	benzylalcohol			2 mM zinc sulfate in 100 mM glycine-NaOH (pH 10.5) at 65°C			
+0.8	benzylalcohol		-	in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+240	beta-NAD+		-	in presence of 0.5 mM SDS			
+243	beta-NAD+		-	in presence of 0.5 mM SDS			
+350	beta-NAD+		-	in presence of 1 mM SDS			
+710	beta-NAD+		-	in presence of 3 mM SDS			
+1230	beta-NAD+		-	in presence of 50 mM SDS			
+2290	beta-NAD+		-	in presence of 15 mM SDS			
+0.055	butan-1-ol		-	-			
+1.9	butan-1-ol		-	-			
+2	butan-1-ol		-	enzyme form ADH-3			
+3.01	butan-1-ol		-	-			
+3.31	butan-1-ol		-	-			
+0.35	butan-2-ol		-	-			
+0.41	butan-2-ol		-	-			
+0.86	butan-2-ol		-	-			
+1.6	butan-2-ol		-	-			
+93.3	butan-2-ol		-	wilde-type enzyme ADh1			
+14	butan-2-one		-	-			
+3	Butanal		-	isoenzyme ADH-1, pH 7.5			
+4.24	Butanal		-	33°C, pH 7			
+0.012	butanol		-	pyrazole-sensitive enzyme, pH 7.5			
+0.02	butanol		-	pyrazole-sinensitive enzyme, pH 10.0			
+0.06	butanol		-	pyrazole-insensitive enzyme, pH 7.5			
+0.09	butanol		-	pyrazole-sensitive enzyme, pH 10.0			
+0.091	butanol		-	-			
+0.24	butanol		-	-			
+0.35	butanol		-	-			
+0.79	butanol		-	-			
+29.4	butanol		-	mutant enzyme W54L			
+53.9	butanol		-	wilde-type enzyme ADh1			
+0.06	Butyraldehyde		-	-			
+0.07	Butyraldehyde		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.13	Butyraldehyde		-	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.27	Butyraldehyde		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.14	Capronaldehyde		-	pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans			
+0.22	Capronaldehyde		-	pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae			
+0.25	Capronaldehyde		-	pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha			
+1.5	cinnamyl alcohol		-	mutant enzyme W54L			
+4.58	cinnamyl alcohol		-	wilde-type enzyme ADh1			
+1	cis-4-methylcyclohexanol		-	-			
+4.2	cis-decahydro-1-naphthol			65°C, pH 8.0		-	
+0.71	crotyl alcohol		-	pH 7.3, 37°C			
+5.1	cycloheptanol			65°C, pH 10.5			
+9.3	cycloheptanol			65°C, pH 8.0			
+0.008	Cyclohexanol		-	isoenzyme alpha,gamma1			
+0.03	Cyclohexanol		-	wild type enzyme, at 65°C			
+0.03	Cyclohexanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.04	Cyclohexanol		-	isoenzyme BB-ADH			
+0.045	Cyclohexanol		-	native enzyme, at 55°C			
+0.045	Cyclohexanol		-	in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+0.23	Cyclohexanol		-	carboxymethylated enzyme, at 55°C			
+0.39	Cyclohexanol		-	-			
+0.703	Cyclohexanol		-	pH 8.0, 60°C			
+0.72	Cyclohexanol		-	-			
+0.76	Cyclohexanol		-	isoenzyme AA-ADH			
+1.9	Cyclohexanol		-	mutant enzyme N249Y, at 65°C			
+2.09	Cyclohexanol			in 200 mM bicine, pH 9.0, at 60°C			
+2.2	Cyclohexanol		-	isoenzyme ADH-3, pH 10.0			
+4.5	Cyclohexanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+5.2	Cyclohexanol		-	enzyme form ADH-3			
+23	Cyclohexanol		-	isoenzyme beta1,beta1			
+210	Cyclohexanol		-	-			
+220	Cyclohexanol		-	isoenzyme ADH-1, pH 10.0			
+320	Cyclohexanol		-	isoenzyme TT-ADH			
+1900	Cyclohexanol		-	isoenzyme ADH-2, pH 10.0			
+1.39	cyclohexanone		-	pH 8.0, 60°C			
+3.68	cyclohexanone			in 200 mM bicine, pH 6.0, at 60°C			
+14	cyclohexanone		-	-			
+14.1	cyclohexanone		-	-			
+1.3	Cyclopentanone		-	-			
+0.0172	ethanol			in 50 mM glycine-NaOH at pH 10.0			
+0.022	ethanol		-	isoenzyme beta1,beta1			
+0.022	ethanol		-	70°C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl			
+0.049	ethanol		-	-			
+0.049	ethanol		-	isoenzyme beta1,beta1			
+0.056	ethanol			-			
+0.06	ethanol		-	-			
+0.147	ethanol			20°C, pH 9.0			
+0.15	ethanol		-	-			
+0.168	ethanol			30°C, pH 9.0			
+0.18	ethanol		-	pyrazole-sensitive enzyme, pH 7.5			
+0.19	ethanol			10°C, pH 9.0			
+0.248	ethanol			40°C, pH 9.0			
+0.26	ethanol		-	-			
+0.34	ethanol		-	40°C, pH 9.0, 50 mM Tris-HCl, 4 M NaCl			
+0.43	ethanol			50°C, pH 9.0			
+0.45	ethanol		-	-			
+0.45	ethanol		-	pH 10.8			
+0.45	ethanol			pH 9.0, 22°C, recombinant enzyme			
+0.48	ethanol		-	recombinant isozyme ADH1, pH 7.5, 25°C			
+0.5	ethanol		-	isoenzyme AA-ADH			
+0.63	ethanol		-	isoenzyme gamma2,gamma2			
+0.7	ethanol		-	-			
+0.7	ethanol		-	native enzyme, at 55°C			
+0.7	ethanol		-	in the presence of 3 mM NAD+, in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+0.76	ethanol		-	isoenzyme 2			
+0.76	ethanol		-	isoenzyme BB-ADH			
+0.77	ethanol			isozyme ADH1C, at 21-23°C			
+0.8	ethanol		-	-			
+0.8	ethanol		-	pyrazole-sensitive enzyme, pH 10.0			
+0.83	ethanol		-	recombinant isozyme ADH1, pH 10.5, 25°C			
+0.84	ethanol		-	isoenzyme beta2,beta2			
+0.94	ethanol		-	isoenzyme beta2,beta2			
+1	ethanol		-	isoenzyme gamma1,gamma1			
+1.04	ethanol			60°C, pH 9.0			
+1.23	ethanol		-	-			
+1.3	ethanol		-	-			
+1.33	ethanol			2 mM zinc sulfate in 100 mM glycine-NaOH (pH 10.5) at 65°C			
+1.37	ethanol		-	isoenzyme 1			
+1.4	ethanol		-	isoenzyme ADH-3, pH 10.0 and pH 7.5			
+1.41	ethanol		-	isoenzyme 4			
+1.5	ethanol		-	isoenzyme alpha,alpha			
+1.6	ethanol		-	isoenzyme beta1,beta1			
+1.64	ethanol		-	-			
+1.7	ethanol		-	isoenzyme alpha,gamma1			
+1.7	ethanol		-	isoenzyme gamma2,gamma2			
+1.7	ethanol		-	isoenzyme III			
+1.8	ethanol		-	-			
+1.87	ethanol		-	isoenzyme 3			
+2.3	ethanol		-	isozyme ADH I, pH 8.5, 25°C			
+2.46	ethanol		-	pH 7.3, 37°C			
+2.5	ethanol	Sporotrichum pulverulentum	-	-			
+3.1	ethanol			at pH 9.0 in bis-Tris propane buffer			
+3.2	ethanol		-	isoenzyme gamma1,gamma1			
+3.2	ethanol			at pH 7.0 and 25°C			
+3.33	ethanol		-	pH 7.5			
+3.5	ethanol		-	isoenzyme III from leaf			
+3.6	ethanol			isozyme ADH4, at 21-23°C			
+4	ethanol		-	pyrazole-insensitive enzyme, pH 7.5			
+4	ethanol		-	wild-type enzyme Adh1			
+4.2	ethanol		-	isoenzyme alpha,alpha			
+4.6	ethanol		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+4.68	ethanol		-	-			
+4.8	ethanol		-	enzyme form ADH I			
+5	ethanol		-	pyrazole-insensitive enzyme, pH 10.0			
+5.11	ethanol		-	-			
+5.22	ethanol		-	-			
+5.38	ethanol		-	-			
+5.7	ethanol		-	20°C, pH 9.0			
+5.7	ethanol			in 100 mM Tris-HCl, at pH 5.0 and 75°C			
+6	ethanol		-	-			
+6.2	ethanol		-	-			
+6.44	ethanol		-	-			
+6.66	ethanol		-	-			
+6.8	ethanol		-	33°C, pH 8			
+7	ethanol		-	pH 10.0			
+7.2	ethanol		-	isoenzyme II from leaf			
+7.3	ethanol		-	isozyme ADH II, pH 8.5, 25°C			
+7.55	ethanol			cosubstrate NAD+, pH 8.0, 60°C			
+7.75	ethanol		-	in 50 mM Tris-HCl, pH 8.0 at 25°C			
+8.1	ethanol		-	enzyme form ADH-3			
+8.56	ethanol		-	30°C, pH 9.0			
+8.7	ethanol		-	-			
+8.92	ethanol		-	-			
+9	ethanol		-	recombinant allozyme Ile308, pH 7.5, 25°C			
+9.03	ethanol		-	10°C, pH 9.0			
+10.4	ethanol		-	pH 9.0, 60°C, recombinant enzyme			
+10.6	ethanol		-	recombinant allozyme Val308, pH 7.5, 25°C			
+10.6	ethanol		-	-			
+12	ethanol		-	-			
+12	ethanol		-	-			
+12	ethanol		-	pH 7.5, 25°C, Co-ADH			
+12.1	ethanol		-	40°C, pH 9.0			
+13	ethanol		-	pH 8.5			
+13	ethanol		-	in presence of 0.5 mM SDS			
+13.4	ethanol		-	mutant enzyme W54L			
+13.7	ethanol		-	pH 8.0, 60°C			
+14	ethanol		-	in presence of 3 mM SDS			
+16	ethanol		-	pH 8.8			
+16	ethanol		-	-			
+16.7	ethanol		-	-			
+17	ethanol		-	in presence of 1 mM SDS			
+18	ethanol		-	-			
+20	ethanol		-	23°C			
+22	ethanol		-	pH 7.6			
+22	ethanol		-	mutant enzyme ADH1S-1108			
+22.2	ethanol		-	-			
+24	ethanol		-	wild-type enzyme ADH1-1S			
+24.2	ethanol		-	pH 10.0, 50°C			
+25	ethanol		-	27°C			
+27	ethanol		-	enzyme form ADH II			
+27.5	ethanol		-	isoenzyme I from leaf			
+28	ethanol		-	-			
+28	ethanol		-	isoenzyme TT-ADH			
+29.9	ethanol		-	-			
+30	ethanol		-	33°C			
+31	ethanol			pH 11.0, temperature not specified in the publication			
+33	ethanol			isozyme ADH2, at 21-23°C			
+36	ethanol		-	isoenzyme beta3,beta3			
+37.6	ethanol			cosubstrate NADP+, pH 8.0, 60°C			
+39	ethanol		-	pH 7.5, 25°C, Cu-ADH			
+40	ethanol		-	-			
+41	ethanol		-	in presence of 15 mM SDS			
+41.3	ethanol		-	43°C			
+42	ethanol		-	pH 7.0			
+47.3	ethanol		-	-			
+50	ethanol		-	in presence of 50 mM SDS			
+53	ethanol		-	pH 7.5, 25°C, native Zn-ADH			
+64	ethanol	Sporotrichum pulverulentum	-	-			
+66	ethanol		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+118	ethanol		-	pH 6.1			
+120	ethanol		-	-			
+184	ethanol		-	carboxymethylated enzyme, at 55°C			
+255	ethanol		-	recombinant isozyme ADH4, pH 10.5, 25°C			
+340	ethanol		-	isoenzyme ADH-1, pH 10.0			
+1625	ethanol		-	recombinant isozyme ADH4, pH 7.5, 25°C			
+5000	ethanol		-	isoenzyme ADH-1, pH 7.5			
+16.6	ethyl 3-methyl-2-oxobutyrate			65°C, pH 5.0			
+1	ethyl benzoylformate		-	65°C			
+4.2	ethyl benzoylformate			65°C, pH 5.0			
+5.3	ethyl benzoylformate			65°C, pH 5.5			
+5.3	ethyl pyruvate		-	pH 6.5, 50°C, recombinant enzyme			
+50	ethylene glycol		-	isoenzyme alpha,gamma1			
+200	ethylene glycol		-	above			
+290	ethylene glycol		-	-			
+4.46	formaldehyde		-	-			
+50	formaldehyde		-	-			
+2.58	glycerol		-	-			
+18.6	glycerol		-	-			
+6.6	heptan-4-ol		-	-			
+0.012	hexaldehyde		-	-			
+7.4	hexan-1-ol		-	-			
+0.0007	Hexanol		-	-			
+0.006	Hexanol		-	recombinant isozyme ADH4, pH 7.5, 25°C			
+0.03	Hexanol		-	-			
+0.085	Hexanol		-	recombinant isozyme ADH1, pH 7.5, 25°C			
+0.13	Hexanol		-	-			
+0.63	Hexanol		-	recombinant isozyme ADH4, pH 10.5, 25°C			
+1.9	Hexanol		-	recombinant isozyme ADH1, pH 10.5, 25°C			
+6.5	Hexanol		-	mutant enzyme W54L			
+13.8	Hexanol		-	wilde-type enzyme ADh1			
+17	Hexanol		-	-			
+0.71	isatin			65°C, pH 5.5			
+2.4	iso-propanol			2 mM zinc sulfate in 100 mM glycine-NaOH (pH 10.5) at 65°C			
+0.81	isoborneol			65°C, pH 10.5			
+0.26	Isobutyraldehyde		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.33	Isobutyraldehyde		-	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.76	Isobutyraldehyde		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+197	Isopentanol			at pH 7.0 and 25°C			
+9	Isopropanol		-	-			
+20.3	Isopropanol			at pH 7.0 and 25°C			
+1.4	m-nitrobenzaldehyde		-	isoenzyme ADH-1, pH 7.5			
+0.78	methanol		-	-			
+3.04	methanol		-	33°C, pH 8			
+5	methanol		-	-			
+9.69	methanol		-	-			
+10.4	methanol		-	-			
+12	methanol		-	pyrazole-sensitive enzyme, pH 7.5			
+14	methanol		-	pyrazole-sensitive enzyme, pH 10.0			
+27	methanol		-	-			
+150	methanol		-	isoenzyme alpha,gamma1			
+6.5	methyl benzoylformate			65°C, pH 5.5			
+2.8	methyl o-chlorobenzoylformate			65°C, pH 5.5		-	
+2.7	methylbenzoylformate		-	65°C			
+0.13	N-benzyl-3-pyrrolidinone		-	pH 6.0			
+0.58	N-benzyl-3-pyrrolidinone		-	-			
+0.03	n-butanol		-	isoenzyme BB-ADH			
+0.07	n-butanol		-	isoenzyme AA-ADH			
+2.6	n-butanol		-	isoenzyme TT-ADH			
+35.1	n-butanol		-	33°C, pH 8			
+0.02	n-Hexanol		-	isoenzyme TT-ADH			
+0.04	n-Hexanol		-	isoenzyme BB-ADH			
+0.26	n-Hexanol		-	isoenzyme TT-ADH			
+10.3	n-Pentanal		-	33°C, pH 8			
+0.19	n-Propanol			2 mM zinc sulfate in 100 mM glycine-NaOH (pH 10.5) at 65°C			
+7.49	n-Propanol		-	33°C, pH 8			
+0.001	NAD+		-	pH 8.0, 60°C			
+0.00694	NAD+		-	pH 7.5			
+0.0074	NAD+		-	isoenzyme beta2,beta2			
+0.0074	NAD+		-	isoenzyme beta1,beta1			
+0.0079	NAD+		-	isoenzyme gamma1,gamma1			
+0.0087	NAD+		-	isoenzyme gamma2,gamma2			
+0.011	NAD+		-	oxidation of ethanol			
+0.013	NAD+		-	isoenzyme alpha,alpha			
+0.022	NAD+		-	-			
+0.025	NAD+		-	-			
+0.028	NAD+		-	oxidation of propan-2-ol			
+0.037	NAD+		-	wild-type enzyme ADH1-1S			
+0.038	NAD+		-	mutant enzyme ADH1-1S1108			
+0.04	NAD+		-	isoenzyme ADH-2, pH 10.0 and pH 7.5			
+0.04	NAD+		-	isozyme ADH II, pH 8.5, 25°C			
+0.044	NAD+		-	isoenzyme 4			
+0.05	NAD+		-	isoenzyme ADH-1, pH 7.5			
+0.05	NAD+		-	pH 9.0, 60°C, recombinant enzyme			
+0.0531	NAD+		-	pH 10.8			
+0.057	NAD+		-	isoenzyme 1			
+0.059	NAD+		-	-			
+0.063	NAD+		-	recombinant allozyme Ile308, pH 7.5, 25°C			
+0.073	NAD+		-	enzyme form ADH I			
+0.074	NAD+		-	oxidation of ethanol			
+0.074	NAD+		-	recombinant allozyme Val308, pH 7.5, 25°C			
+0.076	NAD+		-	-			
+0.099	NAD+		-	isoenzyme 2			
+0.1	NAD+		-	isoenzyme ADH-3			
+0.1	NAD+		-	-			
+0.1	NAD+		-	-			
+0.1	NAD+			at pH 9.0 in bis-Tris propane buffer			
+0.11	NAD+		-	enzyme form ADH II			
+0.115	NAD+		-	isoenzyme 2			
+0.12	NAD+	Leifsonia sp.	-	25°C, pH 7.0			
+0.125	NAD+		-	-			
+0.13	NAD+			in 200 mM bicine, pH 9.0, at 60°C			
+0.136	NAD+		-	23°C			
+0.155	NAD+		-	27°C			
+0.17	NAD+	Sporotrichum pulverulentum	-	-			
+0.18	NAD+		-	isoenzyme beta1,beta1			
+0.18	NAD+			65°C, pH 10.5			
+0.185	NAD+		-	33°C			
+0.19	NAD+		-	-			
+0.195	NAD+	Candida sp.	-	-			
+0.2	NAD+		-	isoenzyme ADH-1, pH 7.5			
+0.2	NAD+		-	-			
+0.2	NAD+		-	native enzyme, at 55°C			
+0.2	NAD+		-	in 0.1 M glycine-NaOH, pH 9.2, at 65°C			
+0.224	NAD+		-	43°C			
+0.23	NAD+		-	oxidation of ethanol			
+0.24	NAD+		-	65°C			
+0.25	NAD+		-	isoenzyme ADH-1, pH 10.0			
+0.26	NAD+		-	-			
+0.29	NAD+			pH 11.0, temperature not specified in the publication			
+0.34	NAD+		-	-			
+0.39	NAD+			at pH 7.0 and 25°C			
+0.44	NAD+			65°C, pH 8.0			
+0.487	NAD+	Candida sp.	-	-			
+0.5	NAD+		-	carboxymethylated enzyme, at 55°C			
+0.5	NAD+		-	wild type enzyme, at 65°C, in the presence of benzyl alcohol			
+0.5	NAD+		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.79	NAD+		-	pH 8.0			
+0.9	NAD+		-	reduction of ethanol			
+1.12	NAD+		-	pH 8.5			
+1.2	NAD+		-	isozyme ADH I, pH 8.5, 25°C			
+1.44	NAD+			cosubstrate 1-octanol, pH 8.0, 60°C			
+1.51	NAD+			cosubstrate ethanol, pH 8.0, 60°C			
+4	NAD+		-	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+7.4	NAD+		-	isoenzyme beta1,beta1			
+12.4	NAD+		-	mutant enzyme N249Y, at 65°C, in the presence of benzyl alcohol			
+30	NAD+		-	isoenzyme II from leaf			
+31	NAD+		-	isoenzyme III from leaf			
+40	NAD+		-	enzyme from liver			
+50	NAD+		-	Km above 50 mM, mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+51.7	NAD+		-	-			
+60	NAD+		-	enzyme from caecum			
+73	NAD+		-	isoenzyme I from leaf			
+180	NAD+		-	isoenzyme beta2,beta2			
+550	NAD+		-	reduction of propan-2-ol			
+710	NAD+		-	isoenzyme beta3,beta3			
+0.0004	NADH		-	pH 8.0, 60°C			
+0.0017	NADH		-	isoenzyme ADH-2, pH 7.5			
+0.0025	NADH		-	-			
+0.0051	NADH		-	reduction of octanal			
+0.0064	NADH		-	isoenzyme beta1,beta1			
+0.007	NADH		-	isoenzyme gamma1,gamma1			
+0.008	NADH		-	mutant enzyme W95L, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.01	NADH			in 200 mM bicine, pH 6.0, at 60°C			
+0.01	NADH		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.011	NADH		-	isoenzyme alpha,alpha			
+0.012	NADH		-	enzyme form ADH II			
+0.013	NADH		-	wild type enzyme, at 65°C, in the presence of benzaldehyde			
+0.02	NADH		-	reduction of acetaldehyde			
+0.021	NADH	Sporotrichum pulverulentum	-	-			
+0.027	NADH		-	enzyme form ADH I			
+0.03	NADH		-	pH 8.5			
+0.03	NADH		-	isozyme ADH II, pH 6.0, 25°C			
+0.03	NADH		-	native enzyme, at 55°C			
+0.03	NADH		-	in 50 mM Tris-HCl (pH 7.5) containing 0.25 mM benzaldehyde, at 65°C			
+0.035	NADH		-	65°C			
+0.036	NADH		-	-			
+0.036	NADH		-	-			
+0.04	NADH		-	carboxymethylated enzyme, at 55°C			
+0.04	NADH			65°C, pH 5.0			
+0.042	NADH		-	mutant enzyme ADH1-1S1108			
+0.048	NADH	Leifsonia sp.	-	25°C, pH 7.0			
+0.051	NADH		-	isoenzyme 4			
+0.071	NADH		-	isoenzyme 2			
+0.071	NADH			pH 6.0, temperature not specified in the publication			
+0.076	NADH		-	isoenzyme 1			
+0.085	NADH		-	wild-type enzyme ADH1-1S			
+0.091	NADH		-	isoenzyme 3			
+0.105	NADH		-	isoenzyme beta2,beta2			
+0.11	NADH		-	-			
+0.122	NADH		-	-			
+0.16	NADH			65°C, pH 5.5			
+0.2	NADH		-	isozyme ADH I, pH 5.5, 25°C			
+0.2	NADH		-	pH 8.0, 60°C, recombinant enzyme			
+0.21	NADH		-	mutant enzyme N249Y, at 65°C, in the presence of benzaldehyde			
+0.35	NADH		-	-			
+0.75	NADH		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.87	NADH		-	pH 6.0			
+1.4	NADH			cosubstrate acetaldehyde, pH 8.0, 60°C			
+6.4	NADH		-	isoenzyme beta1,beta1			
+25	NADH		-	isoenzyme III from leaf			
+31.1	NADH		-	-			
+70	NADH		-	isoenzyme II from leaf			
+105	NADH		-	isoenzyme beta2,beta2			
+121	NADH		-	isoenzyme I from leaf			
+260	NADH		-	isoenzyme beta3,beta3			
+0.28	NADP+			cosubstrate ethanol, pH 8.0, 60°C			
+2.4	NADP+			cosubstrate 1-octanol, pH 8.0, 60°C			
+0.84	NADPH			cosubstrate octanal, pH 8.0, 60°C			
+0.011	octan-1-ol		-	enzyme form ADH-3			
+0.043	octanal		-	enzyme form ADH-2			
+0.3	octanal		-	isoenzyme ADH-1, pH 7.5			
+1.15	octanal			cosubstrate NADPH, pH 8.0, 60°C			
+2.4	octanal		-	-			
+3.5	octanal		-	isoenzyme ADH-1, pH 7.5			
+9.6	octanal			isozyme ADH3, at 21-23°C			
+0.0014	Octanol		-	-			
+0.007	Octanol		-	-			
+0.009	Octanol		-	recombinant allozyme Ile308, pH 7.5, 25°C			
+0.016	Octanol		-	recombinant allozyme Val308, pH 7.5, 25°C			
+0.08	Octanol		-	isoenzyme alpha,gamma1			
+0.6	Octanol			pH and temperature not specified in the publication			
+0.8	Octanol		-	-			
+1.2	Octanol		-	-			
+1.6	Octanol		-	isoenzyme ADH-2, pH 7.5			
+2.9	p-Methoxybenzaldehyde		-	isozyme ADH1, in the presence of 0.1 mM NADH, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+3.4	p-Methoxybenzaldehyde			in the presence of 0.1 mM NADH, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+5.9	p-Methoxybenzaldehyde		-	isozyme ADH2, in the presence of 0.1 mM NADH, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+6.9	p-methoxybenzyl alcohol		-	isozyme ADH2, in the presence of 2 mM NAD+, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+11	p-methoxybenzyl alcohol		-	isozyme ADH1, in the presence of 2 mM NAD+, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+22	p-methoxybenzyl alcohol			in the presence of 2 mM NAD+, in 83 mM potassium phosphate, 40 mM KCl, and 0.25 mM EDTA buffer, pH 7.3, at 30°C			
+0.2	pentan-1-ol		-	enzyme form ADH-3			
+4.1	pentan-1-ol		-	-			
+0.05	pentan-2-ol		-	-			
+0.225	pentan-3-ol		-	-			
+0.012	Pentanol		-	pyrazole-sensitive enzyme, pH 7.5			
+0.018	Pentanol		-	pyrazole-sensitive enzyme, pH 10.0			
+0.044	Pentanol		-	-			
+0.09	Pentanol		-	-			
+0.28	Pentanol		-	-			
+11.8	Pentanol		-	mutant enzyme W54L			
+56.2	Pentanol		-	wilde-type enzyme ADh1			
+13.6	phenyl trifluoromethyl ketone	Leifsonia sp.	-	25°C, pH 7.0			
+0.19	phenylacetaldehyde		-	pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae			
+0.26	phenylacetaldehyde		-	-			
+0.33	phenylacetaldehyde		-	pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha			
+0.91	phenylacetaldehyde		-	pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans			
+24.45	phenylglyoxylic acid		-	soluble enzyme			
+37.55	phenylglyoxylic acid		-	enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde			
+0.019	propan-1-ol		-	-			
+0.28	propan-1-ol		-	-			
+1.9	propan-1-ol		-	-			
+0.5	propan-2-ol		-	-			
+0.93	propan-2-ol		-	-			
+1.3	propan-2-ol		-	-			
+1.87	propan-2-ol		-	-			
+1.99	propan-2-ol		-	-			
+3.33	propan-2-ol		-	-			
+3.42	propan-2-ol		-	-			
+4.16	propan-2-ol		-	-			
+64	propan-2-ol	Sporotrichum pulverulentum	-	-			
+193	propan-2-ol		-	mutant enzyme W54L			
+0.59	propanal		-	33°C, pH 7			
+0.91	Propanol		-	-			
+1.39	Propanol		-	-			
+2.9	Propanol		-	-			
+13.6	Propanol		-	wilde-type enzyme ADh1			
+43.9	Propanol		-	mutant enzyme W54L			
+2.01	propanone		-	33°C, pH 7			
+1.24	propionaldehyde		-	-			
+3.4	R-(+)-1-phenylethanol		-	-			
+1.2	R-(+)-cis-verbenol		-	-			
+1.5	R-(+)-trans-bicyclo(2.2.1)-heptanol		-	-			
+0.011	retinol		-	recombinant allozyme Ile308, pH 7.5, 25°C			
+0.012	retinol		-	recombinant allozyme Val308, pH 7.5, 25°C			
+3.9	S-(-)-1-phenylethanol		-	-			
+0.95	S-(-)-2-methylbutan-1-ol		-	-			
+3.8	S-(-)-cis-bicyclo(2.2.1)-heptanol		-	-			
+0.85	S-(-)-trans-bicyclo(2.2.1)-heptanol		-	-			
+0.694	tert-butyl acetoacetate		-	pH 8.0, 60°C		-	
+1.1	trans-4-methylcyclohexanol		-	-			
+0.009	trans-cinnamaldehyde		-	wild type enzyme, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.09	trans-cinnamaldehyde		-	mutant enzyme W95L,, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.23	trans-cinnamaldehyde		-	mutant enzyme W95L/N249Y, in 0.1 M glycine-NaOH buffer (pH 10.5), at 65°C			
+0.2	tryptophol		-	-			
+0.17	Valeraldehyde		-	pH 6.0, 37°C, recombinant enzyme expressed from Saccharomyces cerevisiae			
+0.28	Valeraldehyde		-	pH 6.0, 37°C, recombinant enzyme expressed from Arxula adeninivorans			
+2	Valeraldehyde		-	pH 6.0, 37°C, recombinant enzyme expressed from Hansenula polymorpha			
+0.034	Vanillyl alcohol		-	-			
+11	Vanillyl alcohol		-	-			
+35	methylglyoxal		-	-			
+			-	Km values for the class I isoenzymes with the substrates ethanol, methanol, ethylene glycol, benzyl alcohol, octanol, cyclohexanol and 16-hydroxyhexadecanoic acid		-	
+			-	-		-	
+			-	Km-values of active-site Co(II)substituted enzyme		-	
+			-	kinetics of native and modified enzyme with coenzyme analogues		-	
+			-	kinetics of ethanol oxidation		-	
+			-	-		-	
+			-	-		-	
+			-	pH-dependence of Km-value		-	
+			-	Michaelis-Menten kinetics		-	
+			-	detailed kinetic mechanism, steady-state kinetics for wild-type and mutant enzymes, investigation of pH-dependency		-	
+			-	steady-state kinetics, MW 25 kDa		-	
+			-	steady-state kinetics		-	
+			-	kinetics		-	
+			-	Km for isozymes ADH1B1, ADH1B2, and ADH4 for all retinoid substrates in forward and reverse reaction		-	
+			-	Km for isozymes ADH1, and ADH4 for all retinoid substrates in forward and reverse reaction		-	
+			-	wild-type and mutant forms of the 3 isozymes, steady-state kinetics, detailed kinetic analysis, at different pH values and temperatures		-	
+			-	kinetics		-	
+			-	steady-state kinetics, kinetic mechanism		-	
+			-	detailed kinetics, computational analysis of the reaction mechanism		-	
+			-	effects of tert-butanol, butyramide, valeramide and capronamide on KM-value for ethanol		-	
+			-	Michaelis-Menten kinetics		-	

@@ -1,0 +1,50 @@
+PATHWAY	BRENDA Link	KEGG Link	MetaCyc Link	
+3-methylbutanol biosynthesis (engineered)	-	-	PWY-6871	
+acetaldehyde biosynthesis I	-	-	PWY-6333	
+acetylene degradation	-	-	P161-PWY	
+butanol and isobutanol biosynthesis (engineered)	-	-	PWY-7396	
+chitin degradation to ethanol	-	-	PWY-7118	
+ethanol degradation I	-	-	ETOH-ACETYLCOA-ANA-PWY	
+ethanol degradation II	-	-	PWY66-21	
+heterolactic fermentation	-	-	P122-PWY	
+L-1,2-propanediol degradation	-	-	PWY-7013	
+L-isoleucine degradation II	-	-	PWY-5078	
+L-leucine degradation III	-	-	PWY-5076	
+L-methionine degradation III	-	-	PWY-5082	
+L-phenylalanine degradation III	-	-	PWY-5079	
+L-tryptophan degradation V (side chain pathway)	-	-	PWY-3162	
+L-tyrosine degradation III	-	-	PWY3O-4108	
+L-valine degradation II	-	-	PWY-5057	
+mixed acid fermentation	-	-	FERMENTATION-PWY	
+noradrenaline and adrenaline degradation	-	-	PWY-6342	
+phenylethanol biosynthesis	-	-	PWY-5751	
+phytol degradation	-	-	PWY66-389	
+pyruvate fermentation to ethanol I	-	-	PWY-5480	
+pyruvate fermentation to ethanol II	-	-	PWY-5486	
+pyruvate fermentation to ethanol III	-	-	PWY-6587	
+pyruvate fermentation to isobutanol (engineered)	-	-	PWY-7111	
+salidroside biosynthesis	-	-	PWY-6802	
+serotonin degradation	-	-	PWY-6313	
+superpathway of fermentation (Chlamydomonas reinhardtii)	-	-	PWY4LZ-257	
+ethanol fermentation	BRENDA pathway	-	-	
+leucine metabolism	BRENDA pathway	-	-	
+methionine metabolism	BRENDA pathway	-	-	
+phenylalanine metabolism	BRENDA pathway	-	-	
+propanol degradation	BRENDA pathway	-	-	
+tryptophan metabolism	BRENDA pathway	-	-	
+tyrosine metabolism	BRENDA pathway	-	-	
+valine metabolism	BRENDA pathway	-	-	
+Glycolysis / Gluconeogenesis	-	00010	-	
+Fatty acid degradation	-	00071	-	
+Glycine, serine and threonine metabolism	-	00260	-	
+Tyrosine metabolism	-	00350	-	
+alpha-Linolenic acid metabolism	-	00592	-	
+Chloroalkane and chloroalkene degradation	-	00625	-	
+Naphthalene degradation	-	00626	-	
+Retinol metabolism	-	00830	-	
+Metabolism of xenobiotics by cytochrome P450	-	00980	-	
+Drug metabolism - cytochrome P450	-	00982	-	
+Metabolic pathways	-	01100	-	
+Biosynthesis of secondary metabolites	-	01110	-	
+Microbial metabolism in diverse environments	-	01120	-	
+Biosynthesis of antibiotics	-	01130	-	
